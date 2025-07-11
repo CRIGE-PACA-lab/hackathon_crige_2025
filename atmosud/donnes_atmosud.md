@@ -1,4 +1,6 @@
-# Connexion aux données et services Atmosud 
+# Connexion aux données et services Atmosud  
+
+![logo_atmosud](https://www.atmosud.org/sites/sud/files/logo_atmosud_inspirer_ok_web.png)
 
 ## Modélisations des concentrations annuelles en polluants
 
