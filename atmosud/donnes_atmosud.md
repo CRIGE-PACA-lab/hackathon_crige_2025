@@ -1,0 +1,31 @@
+# Connexion aux données et services Atmosud 
+
+## Modélisations des concentrations annuelles en polluants
+
+* Visualiser les données (flux WMTS) : https://geoservices.atmosud.org/geoserver/gwc/service/wmts
+
+* Visualiser les données (flux WMS) : https://geoservices.atmosud.org/geoserver/gwc/service/wms
+  
+* [Visualiser les données](https://opendata.atmosud.org/viewer.php?categorie=modelisation)
+
+## Inventaires annuels des émissions de polluants atmosphériques, GES, consommations et production d’énergie 
+
+* Télécharger les données (flux WFS) : https://geoservices.atmosud.org/geoserver/wfs
+  
+* [Télécharger les données (API)](https://api.atmosud.org/cigale/)
+  
+* [Visualiser les données](https://cigale.atmosud.org/visualisation.php?version=2025062014&datetime=2025-06-20T14%3A38%3A14.282Z)
+
+## Observations de qualité de l’air : 
+
+* [Télécharger les données (API)](https://api.atmosud.org/observations/)
+
+* [Visualiser les données](https://openairmap.atmosud.org/)
+
+
+## Expositions aux dépassements des seuils règlementaires
+
+* [Télécharger les données (API)](https://api.atmosud.org/exposition/)
+
+* [Visualiser les données](https://cigale.atmosud.org/tdb.php)
+
