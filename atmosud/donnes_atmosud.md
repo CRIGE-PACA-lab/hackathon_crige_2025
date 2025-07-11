@@ -10,7 +10,7 @@
 
 ## Inventaires annuels des émissions de polluants atmosphériques, GES, consommations et production d’énergie 
 
-* Télécharger les données (flux WFS) : https://geoservices.atmosud.org/geoserver/wfs
+* Visualiser et télécharger les données (flux WFS) : https://geoservices.atmosud.org/geoserver/wfs
   
 * [Télécharger les données (API)](https://api.atmosud.org/cigale/)
   
@@ -29,3 +29,15 @@
 
 * [Visualiser les données](https://cigale.atmosud.org/tdb.php)
 
+
+## Autres services 
+
+* [Prévisions journalières et horraires de la qualité de l'air (API)](https://api.atmosud.org/prevision/)
+
+* [Pollens (API)](https://api.atmosud.org/pollens)
+
+* [Expositions (API)](https://api.atmosud.org/exposition/)
+
+* [IQA (API)](https://api.atmosud.org/iqa2021/)
+
+* [IQA historique antérieurs à 2021 (API)](https://api.atmosud.org/iqa/)
