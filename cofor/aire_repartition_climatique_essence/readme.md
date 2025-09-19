@@ -14,7 +14,7 @@ Par exemple, pour récupéré un MNT départemental à 5 mètres de résolution 
 
 	1. Entrer dans le dossier contenant sur le raster (.../rge_alti_5m) 
 	2. Cliquer sur le raster souhaité (.../rge_alti_5m/rge_alti_5m_04_ass_cog.tif)
-	3. Clic droit sur "View raw" : "copier le lien" (clique gauche pour télécharger)
+	3. Clic droit sur "View raw" : "copier le lien" (clic gauche pour télécharger)
 
 ![image_720](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/blob/main/img/image_720.png?raw=true)
 
@@ -28,6 +28,8 @@ Par exemple, pour récupéré un MNT départemental à 5 mètres de résolution 
 	6. Coller le lien du raster 
 	7. Cliquer sur ajouter
 	
+**Vous pouvez désormais utiliser le raster comme un raster classique !**	
+
 ![image_721](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/blob/main/img/image_721.png?raw=true)
 
 ![image_722](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/blob/main/img/image_722.png?raw=true)
