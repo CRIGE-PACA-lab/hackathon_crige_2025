@@ -16,7 +16,7 @@ Par exemple, pour récupéré un MNT départemental à 5 mètres de résolution 
 	2. Cliquer sur le raster souhaité (.../rge_alti_5m/rge_alti_5m_04_ass_cog.tif)
 	3. Clic droit sur "View raw" : "copier le lien" (clique gauche pour télécharger)
 
-![image_viewraw](images/image_720.png)
+![image_720](img/image_720.png)
 
 ### 2) Sous Qgis 
 
@@ -28,6 +28,6 @@ Par exemple, pour récupéré un MNT départemental à 5 mètres de résolution 
 	6. Coller le lien du raster 
 	7. Cliquer sur ajouter
 	
-![image_viewraw](images/image_721.png)
+![image_721](img/image_721.png)
 
-![image_viewraw](images/image_722.png)
+![image_722](img/image_722.png)
