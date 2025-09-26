@@ -7,7 +7,7 @@ Sont notamment concernés :
 - Diaporamas 
 - Rapports 
 - Blocs de code 
-- ... 
+- etc ... 
 
 ### Etape 1 : Obtenir les accès 
 
@@ -16,6 +16,7 @@ Sont notamment concernés :
 3. Donnez un titre à votre issue et insérez un texte (une issue exemple est disponible) 
 4. Cliquez sur **"Create"** (bouton vert en bas à droite)
 5. L'administrateur vous ouvrira les droits nécéssaires pour déposer vos productions sur Github
+6. **Acceptez l'invitation** à rejoindre le projet Github (vous recevez un mail, vérifiez les spam)
 
 ### Etape 2 : Pousser les résultats
 
