@@ -1,29 +1,26 @@
-# Déposez vos productions sur Github
+# Défi 1 - Le dépérissement forestier, une histoire de marges
 
-Ici, peuvent être déposées les toutes les productions réalisées dans le cadre du Hackathon Geodatalab 2025. 
+## Emetteur du défi
 
-Sont notamment concernés :  
-- Cartes 
-- Diaporamas 
-- Rapports 
-- Blocs de code 
-- etc ... 
+Master Géographie, aménagement, environnement et développement (GAED)
 
-### Etape 1 : Obtenir les accès 
+## Enoncé 
 
-1. **[Un compte Github](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)** est nécéssaire pour pousser les fichiers. Si vous disposez déjà d'un compte, ignorez cette étape.
-2. Cliquez sur **["Issues"](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/issues)** puis **New issues** (bouton vert) 
-3. Donnez un titre à votre issue et insérez un texte (une issue exemple est disponible) 
-4. Cliquez sur **"Create"** (bouton vert en bas à droite)
-5. L'administrateur vous ouvrira les droits nécéssaires pour déposer vos productions sur Github
-6. **Acceptez l'invitation** à rejoindre le projet Github (vous recevez un mail, vérifiez les spam)
+**La mortalité des individus d’espèces arborées est-elle plus significative aux marges de leur aire de répartition qu’au centre de leur niche écologique ?**
 
-### Etape 2 : Pousser les résultats
+Les inventaires forestiers permettent d’identifier la répartition des espèces et de les qualifier selon plusieurs caractéristiques (taille, diamètre, coloration, présence de pathogènes, mortalité…). Après modélisation d’enveloppes homogènes de peuplements forestiers (niches), observe-t-on plus de mortalité (dépérissement) chez les arbres situés aux bords que sur les individus proches du centre de la niche écologique ? 
 
-1. Cliquer sur **"ADD file"** (en haut à droite de l'écran)
-2. **Upload files** 
-3. Importer les fichiers par selection ou glisser-déposer 
-4. Cliquer sur **"Commit changes"** (bouton vert en bas à gauche)
-5. Laisser les autres options par défaut.
+## Méthodologie suggérée
 
-Un fichier ne peut pas être déposés si son poids est supérieur **25 MB**. 
+* Modélisation de la niche écologique via SDM (Bioclim, MaxEnt, Random Forest, etc...)
+* Calcul de la distance au centre de niche ou calcul de la marge/distance à la marge (enjeu méthodologique)
+* Calcul de l’aire bioclimatique (statistique)
+* Régression entre mortalité et distance au centre de niche
+* Visualisation des zones de mortalité accrue aux marges écologiques
+* Comparaison entre espèces
+
+## Résultats 
+
+Présentation des étudiants 
+
+<iframe src="https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/blob/main/resultats/Aix/D%C3%A9fi%201%20-%20Le%20d%C3%A9p%C3%A9rissement%20forestier%2C%20une%20histoire%20de%20marges/Pr%C3%A9sentation.pdf"></iframe>

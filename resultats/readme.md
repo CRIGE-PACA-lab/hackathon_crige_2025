@@ -1,29 +1,21 @@
-# Déposez vos productions sur Github
+# Les résultats du Hackathon Geodatalab 2025
 
-Ici, peuvent être déposées les toutes les productions réalisées dans le cadre du Hackathon Geodatalab 2025. 
+## Défis sur le site d'Aix-en-Provence
 
-Sont notamment concernés :  
-- Cartes 
-- Diaporamas 
-- Rapports 
-- Blocs de code 
-- etc ... 
+* Défi 1 - Le dépérissement forestier, une histoire de marges
+	
+* Défi 2 - dynamiques de la croissance forestière en PACA
+	
+* Défi 3 - pollution atmosphérique et dépérissement forestier
+	
+* Défi 4 - quels espaces agricoles en Crau-Camargue en 2050
 
-### Etape 1 : Obtenir les accès 
+## Défis sur le site de Digne-les-Bains
 
-1. **[Un compte Github](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)** est nécéssaire pour pousser les fichiers. Si vous disposez déjà d'un compte, ignorez cette étape.
-2. Cliquez sur **["Issues"](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/issues)** puis **New issues** (bouton vert) 
-3. Donnez un titre à votre issue et insérez un texte (une issue exemple est disponible) 
-4. Cliquez sur **"Create"** (bouton vert en bas à droite)
-5. L'administrateur vous ouvrira les droits nécéssaires pour déposer vos productions sur Github
-6. **Acceptez l'invitation** à rejoindre le projet Github (vous recevez un mail, vérifiez les spam)
+* Défi 5 - canaux de la Bléone
 
-### Etape 2 : Pousser les résultats
+## Défis sur le site de Nice
 
-1. Cliquer sur **"ADD file"** (en haut à droite de l'écran)
-2. **Upload files** 
-3. Importer les fichiers par selection ou glisser-déposer 
-4. Cliquer sur **"Commit changes"** (bouton vert en bas à gauche)
-5. Laisser les autres options par défaut.
-
-Un fichier ne peut pas être déposés si son poids est supérieur **25 MB**. 
+* Défi 6 - Potentialité et impact désimperméabilisation
+	
+* Défi 7 - Climat urbain évolution du confort thermique
