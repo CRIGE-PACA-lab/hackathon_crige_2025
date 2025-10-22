@@ -1,29 +1,33 @@
-# Déposez vos productions sur Github
+# Défi 2 - Quelles dynamiques de croissance forestière en PACA ?
 
-Ici, peuvent être déposées les toutes les productions réalisées dans le cadre du Hackathon Geodatalab 2025. 
+## Emetteur du défi
 
-Sont notamment concernés :  
-- Cartes 
-- Diaporamas 
-- Rapports 
-- Blocs de code 
-- etc ... 
+Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) PACA 
 
-### Etape 1 : Obtenir les accès 
+## Enoncé 
 
-1. **[Un compte Github](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)** est nécéssaire pour pousser les fichiers. Si vous disposez déjà d'un compte, ignorez cette étape.
-2. Cliquez sur **["Issues"](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/issues)** puis **New issues** (bouton vert) 
-3. Donnez un titre à votre issue et insérez un texte (une issue exemple est disponible) 
-4. Cliquez sur **"Create"** (bouton vert en bas à droite)
-5. L'administrateur vous ouvrira les droits nécéssaires pour déposer vos productions sur Github
-6. **Acceptez l'invitation** à rejoindre le projet Github (vous recevez un mail, vérifiez les spam)
+**Identification rétrospective et prospective de zones d’expansion de la forêt / d’augmentation de la surface forestière en région Provence-Alpes-Côte d’Azur.**
 
-### Etape 2 : Pousser les résultats
+La forêt occupe 51 % du territoire régional et croît à un rythme supérieur à 1 % par an. Cependant, il n’existe pas de donnée fiable permettant de localiser cette croissance.
 
-1. Cliquer sur **"ADD file"** (en haut à droite de l'écran)
-2. **Upload files** 
-3. Importer les fichiers par selection ou glisser-déposer 
-4. Cliquer sur **"Commit changes"** (bouton vert en bas à gauche)
-5. Laisser les autres options par défaut.
+L’objectif est d’identifier les espaces qui ont été gagnés par la forêt au cours des décennies précédentes et de proposer un modèle prédictif de la croissance de la forêt à 5 ans, 10 ans, 20 ans afin d’aider à la définition de politiques publiques en matière d'occupation des sols, biodiversité, etc…
 
-Un fichier ne peut pas être déposés si son poids est supérieur **25 MB**. 
+## Méthodologie suggérée
+
+S’appuyer sur le suivi de l'évolution de la surface forestière ces 30 dernières années en utilisant les données mobilisables.       
+
+Modéliser l’évolution future via :
+* des équations de régression dérivées de données d'inventaire à long terme ;
+* l’utilisation de logiciels de modélisation forestière (CAPSIS, 3-PG [process-based], FORGEM…) ;
+* et/ou des outils d’analyse statistique : R, Python...
+
+Différents scénarios de projection de croissance peuvent être étudiés en tenant compte de la croissance naturelle et des pratiques sylvicoles.
+
+## Résultats 
+
+
+![Présentation des étudiants](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/blob/main/resultats/Aix/D%C3%A9fi%202%20-%20dynamiques%20de%20la%20croissance%20foresti%C3%A8re%20en%20PACA/Pr%C3%A9sentation.pdf)
+
+![Note méthodologique](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/blob/main/resultats/Aix/D%C3%A9fi%202%20-%20dynamiques%20de%20la%20croissance%20foresti%C3%A8re%20en%20PACA/note_synthese_Hackathon2025_aix_sujet2.pdf)
+
+![Données](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/tree/main/resultats/Aix/D%C3%A9fi%202%20-%20dynamiques%20de%20la%20croissance%20foresti%C3%A8re%20en%20PACA/R%C3%A9sultats)

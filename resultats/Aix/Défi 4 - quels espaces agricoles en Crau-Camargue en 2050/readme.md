@@ -1,29 +1,31 @@
-# Déposez vos productions sur Github
+# Défi 4 - Quels espaces agricoles en Crau-Camargue en 2050 ?
 
-Ici, peuvent être déposées les toutes les productions réalisées dans le cadre du Hackathon Geodatalab 2025. 
+## Emetteur du défi
 
-Sont notamment concernés :  
-- Cartes 
-- Diaporamas 
-- Rapports 
-- Blocs de code 
-- etc ... 
+DRAAF PACA 
 
-### Etape 1 : Obtenir les accès 
+## Enoncé 
 
-1. **[Un compte Github](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)** est nécéssaire pour pousser les fichiers. Si vous disposez déjà d'un compte, ignorez cette étape.
-2. Cliquez sur **["Issues"](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/issues)** puis **New issues** (bouton vert) 
-3. Donnez un titre à votre issue et insérez un texte (une issue exemple est disponible) 
-4. Cliquez sur **"Create"** (bouton vert en bas à droite)
-5. L'administrateur vous ouvrira les droits nécéssaires pour déposer vos productions sur Github
-6. **Acceptez l'invitation** à rejoindre le projet Github (vous recevez un mail, vérifiez les spam)
+Site emblématique en France et en Europe, la Camargue a été façonnée au fil des siècles par la nature et les hommes, développant une forte identité culturelle et un patrimoine naturel unique.
 
-### Etape 2 : Pousser les résultats
+Première zone humide de France par sa taille et territoire de biodiversité, la Camargue est aussi marquée par des spécificités agricoles comme la riziculture ou l’élevage taurins et équins. C’est également un territoire vulnérable soumis à de multiples pressions d’origine naturelles ou anthropiques.
 
-1. Cliquer sur **"ADD file"** (en haut à droite de l'écran)
-2. **Upload files** 
-3. Importer les fichiers par selection ou glisser-déposer 
-4. Cliquer sur **"Commit changes"** (bouton vert en bas à gauche)
-5. Laisser les autres options par défaut.
+**Dans le cadre de ce défi, vous vous intéresserez à l’impact du changement climatique sur l’agriculture et à la problématique de l’élévation du niveau de la mer.**
 
-Un fichier ne peut pas être déposés si son poids est supérieur **25 MB**. 
+Vos travaux permettront d’alimenter la connaissance et l’aide à la décision nécessaires à l’orientation des politiques publiques dans un contexte global de transition écologique.   
+
+## Méthodologie suggérée
+
+En vous appuyant sur les données et perspectives du GIEC en matière d’élévation du niveau des océans, vous proposerez des scénarios, des méthodes d’analyse, des solutions de visualisation et des exports de données permettant d’apprécier en terme géographique et statistique, l’impact de l’élévation du niveau de la méditerranée sur le delta du Rhône à l’horizon 2050 .
+
+Vous définirez les changements et évolutions (qualitatif et quantitatif) des productions végétales (riz, céréales, vignes, arboriculture) et mesurerez l’impact sur l’élevage de bovins et équins (pâturages, animaux, exploitations).
+
+Vous ciblerez votre étude sur le périmètre « Grande Camargue ».
+
+## Résultats 
+
+![Présentation des étudiants](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/blob/main/resultats/Aix/D%C3%A9fi%204%20-%20quels%20espaces%20agricoles%20en%20Crau-Camargue%20en%202050/Pr%C3%A9sentation.pdf)
+
+![Données](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/tree/main/resultats/Aix/D%C3%A9fi%204%20-%20quels%20espaces%20agricoles%20en%20Crau-Camargue%20en%202050/Donn%C3%A9es)
+
+![Carte interactive](https://crige-paca-lab.github.io/hackathon_crige_2025/resultats/Aix/D%C3%A9fi%204%20-%20quels%20espaces%20agricoles%20en%20Crau-Camargue%20en%202050/qgis2web_2025_10_15-15_09_47_441140)

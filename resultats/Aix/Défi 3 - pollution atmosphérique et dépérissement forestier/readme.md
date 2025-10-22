@@ -1,29 +1,34 @@
-# Déposez vos productions sur Github
+# Défi 3 - Pollution atmosphérique et dépérissement forestier
 
-Ici, peuvent être déposées les toutes les productions réalisées dans le cadre du Hackathon Geodatalab 2025. 
+## Emetteur du défi
 
-Sont notamment concernés :  
-- Cartes 
-- Diaporamas 
-- Rapports 
-- Blocs de code 
-- etc ... 
+* Master géographie, aménagement, environnement et développement (GAED) 
+* Atmosud 
 
-### Etape 1 : Obtenir les accès 
+## Enoncé 
 
-1. **[Un compte Github](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)** est nécéssaire pour pousser les fichiers. Si vous disposez déjà d'un compte, ignorez cette étape.
-2. Cliquez sur **["Issues"](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/issues)** puis **New issues** (bouton vert) 
-3. Donnez un titre à votre issue et insérez un texte (une issue exemple est disponible) 
-4. Cliquez sur **"Create"** (bouton vert en bas à droite)
-5. L'administrateur vous ouvrira les droits nécéssaires pour déposer vos productions sur Github
-6. **Acceptez l'invitation** à rejoindre le projet Github (vous recevez un mail, vérifiez les spam)
+Observe-t-on plus de mortalité des végétaux dans les massifs forestiers régulièrement soumis à de haute concentration de polluants atmosphériques ? Quels seraient alors les seuils de concentration de polluants au-delà desquels on observerait davantage de dépérissement ? 
 
-### Etape 2 : Pousser les résultats
+## Méthodologie suggérée
 
-1. Cliquer sur **"ADD file"** (en haut à droite de l'écran)
-2. **Upload files** 
-3. Importer les fichiers par selection ou glisser-déposer 
-4. Cliquer sur **"Commit changes"** (bouton vert en bas à gauche)
-5. Laisser les autres options par défaut.
+* Croisement spatial entre peuplements forestiers et qualité de l’air
+* Application d’indices d’émission pondérés par type d’essence
+* Cartographie des zones à risque (cartes de potentiels)
+* Analyse comparative entre scénarios forestiers
 
-Un fichier ne peut pas être déposés si son poids est supérieur **25 MB**. 
+## Résultats 
+
+
+![Présentation des étudiants](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/blob/main/resultats/Aix/D%C3%A9fi%203%20-%20pollution%20atmosph%C3%A9rique%20et%20d%C3%A9p%C3%A9rissement%20forestier/Pr%C3%A9sentation.pdf)
+
+![Note méthodologique](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/blob/main/resultats/Aix/D%C3%A9fi%203%20-%20pollution%20atmosph%C3%A9rique%20et%20d%C3%A9p%C3%A9rissement%20forestier/Traitements.pdf)
+
+![Données](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/tree/main/resultats/Aix/D%C3%A9fi%203%20-%20pollution%20atmosph%C3%A9rique%20et%20d%C3%A9p%C3%A9rissement%20forestier/Donn%C3%A9es)
+
+![Toutes les cartes et les graphiques](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/tree/main/resultats/Aix/D%C3%A9fi%203%20-%20pollution%20atmosph%C3%A9rique%20et%20d%C3%A9p%C3%A9rissement%20forestier/Cartes%20et%20graphiques)
+
+![Concentration de polluants en 2021](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/blob/main/resultats/Aix/D%C3%A9fi%203%20-%20pollution%20atmosph%C3%A9rique%20et%20d%C3%A9p%C3%A9rissement%20forestier/Cartes%20et%20graphiques/cartes/cartes_2021.gif)
+
+![Concentration de polluants en 2022](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/blob/main/resultats/Aix/D%C3%A9fi%203%20-%20pollution%20atmosph%C3%A9rique%20et%20d%C3%A9p%C3%A9rissement%20forestier/Cartes%20et%20graphiques/cartes/cartes_2022.gif)
+
+![Importance des dépérissement par commune](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/blob/main/resultats/Aix/D%C3%A9fi%203%20-%20pollution%20atmosph%C3%A9rique%20et%20d%C3%A9p%C3%A9rissement%20forestier/Cartes%20et%20graphiques/cartes/INDICE_DE_DEPERISSEMENT.jpg)
