@@ -1,4 +1,4 @@
-![Logo Geodatalab](img/Logo_geodatalab_2025.png)  ![Logo geographr](img/geographr.png)
+![Logo_Geodatalab](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/blob/main/img/Logo_geodatalab_2025.png)  ![Logo_geographr](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/blob/main/img/geographr.png)
 
 # Les résultats du Hackathon Geodatalab 2025
 
