@@ -30,4 +30,4 @@ Vous ciblerez votre étude sur le périmètre « Grande Camargue ».
 
 [Carte interactive](https://crige-paca-lab.github.io/hackathon_crige_2025/resultats/Aix/D%C3%A9fi%204%20-%20quels%20espaces%20agricoles%20en%20Crau-Camargue%20en%202050/qgis2web_2025_10_15-15_09_47_441140/)
 
-<iframe src="https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/blob/main/resultats/Aix/D%C3%A9fi%204%20-%20quels%20espaces%20agricoles%20en%20Crau-Camargue%20en%202050/qgis2web_2025_10_15-15_09_47_441140/index.html" height="700" width="700"></iframe> 
+<iframe src="qgis2web_2025_10_15-15_09_47_441140/index.html" height="700" width="700"></iframe> 
