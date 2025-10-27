@@ -19,10 +19,10 @@ En croisant des mesures de climatologie urbaine réalisées in-situ et des sorti
 
 ## Résultats 
 
-![Présentation des étudiants](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/blob/main/resultats/Nice/D%C3%A9fi%202%20-%20Climat%20urbain%20%C3%A9volution%20du%20confort%20thermique/Equipe%201%20-%20pr%C3%A9sentation%20et%20docs%20de%20travail/groupe_1/HACKATON_Confort.thermique_G1_Finale.pdf)
+[Présentation des étudiants](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/blob/main/resultats/Nice/D%C3%A9fi%202%20-%20Climat%20urbain%20%C3%A9volution%20du%20confort%20thermique/Equipe%201%20-%20pr%C3%A9sentation%20et%20docs%20de%20travail/groupe_1/HACKATON_Confort.thermique_G1_Finale.pdf)
 
-![Données](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/tree/main/resultats/Nice/D%C3%A9fi%202%20-%20Climat%20urbain%20%C3%A9volution%20du%20confort%20thermique/Equipe%201%20-%20pr%C3%A9sentation%20et%20docs%20de%20travail/groupe_1/cartes)
+[Données](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/tree/main/resultats/Nice/D%C3%A9fi%202%20-%20Climat%20urbain%20%C3%A9volution%20du%20confort%20thermique/Equipe%201%20-%20pr%C3%A9sentation%20et%20docs%20de%20travail/groupe_1/cartes)
 
-![Vidéo de présentation (en français)](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/raw/refs/heads/main/resultats/Nice/D%C3%A9fi%202%20-%20Climat%20urbain%20%C3%A9volution%20du%20confort%20thermique/Equipe%201%20-%20pr%C3%A9sentation%20et%20docs%20de%20travail/groupe_1/Hackathon.francais.mp4)
+[Vidéo de présentation (en français)](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/raw/refs/heads/main/resultats/Nice/D%C3%A9fi%202%20-%20Climat%20urbain%20%C3%A9volution%20du%20confort%20thermique/Equipe%201%20-%20pr%C3%A9sentation%20et%20docs%20de%20travail/groupe_1/Hackathon.francais.mp4)
 
-![Vidéo de présentation (en anglais)](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/raw/refs/heads/main/resultats/Nice/D%C3%A9fi%202%20-%20Climat%20urbain%20%C3%A9volution%20du%20confort%20thermique/Equipe%201%20-%20pr%C3%A9sentation%20et%20docs%20de%20travail/groupe_1/Hackathon_Anglais.mp4)
+[Vidéo de présentation (en anglais)](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/raw/refs/heads/main/resultats/Nice/D%C3%A9fi%202%20-%20Climat%20urbain%20%C3%A9volution%20du%20confort%20thermique/Equipe%201%20-%20pr%C3%A9sentation%20et%20docs%20de%20travail/groupe_1/Hackathon_Anglais.mp4)

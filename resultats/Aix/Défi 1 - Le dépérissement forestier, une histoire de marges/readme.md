@@ -1,5 +1,3 @@
-![Logo Geodatalab](img/Logo_geodatalab_2025.png)  ![Logo geographr](img/geographr.png)
-
 # Défi 1 - Le dépérissement forestier, une histoire de marges
 
 ## Emetteur du défi
@@ -24,4 +22,4 @@ Les inventaires forestiers permettent d’identifier la répartition des espèce
 ## Résultats 
 
 
-![Présentation des étudiants](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/blob/main/resultats/Aix/D%C3%A9fi%201%20-%20Le%20d%C3%A9p%C3%A9rissement%20forestier%2C%20une%20histoire%20de%20marges/Pr%C3%A9sentation.pdf)
+[Présentation des étudiants](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/blob/main/resultats/Aix/D%C3%A9fi%201%20-%20Le%20d%C3%A9p%C3%A9rissement%20forestier%2C%20une%20histoire%20de%20marges/Pr%C3%A9sentation.pdf)
