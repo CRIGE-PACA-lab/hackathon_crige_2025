@@ -8,7 +8,7 @@
 	
 * [Défi 3 - pollution atmosphérique et dépérissement forestier](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/tree/main/resultats/Aix/D%C3%A9fi%203%20-%20pollution%20atmosph%C3%A9rique%20et%20d%C3%A9p%C3%A9rissement%20forestier)
 	
-* [Défi 4 - quels espaces agricoles en Crau-Camargue en 2050](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/tree/main/resultats/Aix/D%C3%A9fi%204%20-%20quels%20espaces%20agricoles%20en%20Crau-Camargue%20en%202050)
+* [Défi 4 - quels espaces agricoles en Crau-Camargue en 2050](https://crige-paca-lab.github.io/hackathon_crige_2025/resultats/Aix/D%C3%A9fi%204%20-%20quels%20espaces%20agricoles%20en%20Crau-Camargue%20en%202050/)
 
 ## Défis sur le site de Digne-les-Bains
 
