@@ -19,8 +19,6 @@ Proposer et tester une méthodologie de mise en œuvre de sélection de sites et
 
 ## Résultats 
 
-[Présentation des étudiants](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/blob/main/resultats/Nice/D%C3%A9fi%201%20-%20Potentialit%C3%A9%20et%20impact%20d%C3%A9simperm%C3%A9abilisation/Equipe%206%20-%20pr%C3%A9sentation%20et%20docs%20de%20travail/Groupe%206_D%C3%A9fi%201_Support%20demi-finale.pdf)
-
-[Vidéo de présentation](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/raw/refs/heads/main/resultats/Nice/D%C3%A9fi%201%20-%20Potentialit%C3%A9%20et%20impact%20d%C3%A9simperm%C3%A9abilisation/Equipe%206%20-%20pr%C3%A9sentation%20et%20docs%20de%20travail/Vid%C3%A9o%20pr%C3%A9sentation%20HydroLogic.mov)
+[Présentation des étudiants](https://crige-paca-lab.github.io/hackathon_crige_2025/resultats/Nice/D%C3%A9fi%201%20-%20Potentialit%C3%A9%20et%20impact%20d%C3%A9simperm%C3%A9abilisation/Equipe%206%20-%20pr%C3%A9sentation%20et%20docs%20de%20travail/Groupe%206_D%C3%A9fi%201_Support%20demi-finale.pdf)
 
 [Code](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/blob/main/resultats/Nice/D%C3%A9fi%201%20-%20Potentialit%C3%A9%20et%20impact%20d%C3%A9simperm%C3%A9abilisation/Equipe%206%20-%20pr%C3%A9sentation%20et%20docs%20de%20travail/HydroLogic.py)

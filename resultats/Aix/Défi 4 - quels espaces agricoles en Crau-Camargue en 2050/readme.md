@@ -24,7 +24,7 @@ Vous ciblerez votre étude sur le périmètre « Grande Camargue ».
 
 ## Résultats 
 
-[Présentation des étudiants](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/blob/main/resultats/Aix/D%C3%A9fi%204%20-%20quels%20espaces%20agricoles%20en%20Crau-Camargue%20en%202050/Pr%C3%A9sentation.pdf)
+[Présentation des étudiants](https://crige-paca-lab.github.io/hackathon_crige_2025/resultats/Aix/D%C3%A9fi%204%20-%20quels%20espaces%20agricoles%20en%20Crau-Camargue%20en%202050/Pr%C3%A9sentation.pdf)
 
 [Données](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/tree/main/resultats/Aix/D%C3%A9fi%204%20-%20quels%20espaces%20agricoles%20en%20Crau-Camargue%20en%202050/Donn%C3%A9es)
 
