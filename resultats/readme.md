@@ -1,3 +1,5 @@
+![Logo Geodatalab](img/Logo_geodatalab_2025.png)  ![Logo geographr](img/geographr.png)
+
 # Les résultats du Hackathon Geodatalab 2025
 
 ## Défis sur le site d'Aix-en-Provence

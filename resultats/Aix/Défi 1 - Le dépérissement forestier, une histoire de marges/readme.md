@@ -1,3 +1,5 @@
+![Logo Geodatalab](img/Logo_geodatalab_2025.png)  ![Logo geographr](img/geographr.png)
+
 # Défi 1 - Le dépérissement forestier, une histoire de marges
 
 ## Emetteur du défi
