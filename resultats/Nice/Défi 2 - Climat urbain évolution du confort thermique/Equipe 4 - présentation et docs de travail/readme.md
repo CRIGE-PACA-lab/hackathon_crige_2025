@@ -6,7 +6,7 @@ Master Ville et Environnement Urbains | Parcours AIR (Pollution Atmosphérique, 
 
 ## Enoncé 
 
-patialiser le confort thermique de la ville de Nice à travers l’indice humidex (combinaison de T et de Td) dans le climat actuel (2030), puis en fonction de la TRACC en 2050 et 2100. 
+Spatialiser le confort thermique de la ville de Nice à travers l’indice humidex (combinaison de T et de Td) dans le climat actuel (2030), puis en fonction de la TRACC en 2050 et 2100. 
 En croisant des mesures de climatologie urbaine réalisées in-situ et des sorties de modèles climatiques avec des facteurs géographiques (altitude, bâti) via des méthodes géostatistiques, les cartes à 1 m de résolution ainsi créées permettront d’anticiper au mieux afin d’adapter la ville au réchauffement en cours.
 
 ## Méthodologie suggérée

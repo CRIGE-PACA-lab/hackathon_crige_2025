@@ -1,5 +1,3 @@
-![Logo_Geodatalab](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/blob/main/img/Logo_geodatalab_2025.png)  ![Logo_geographr](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/blob/main/img/geographr.png)
-
 # Les résultats du Hackathon Geodatalab 2025
 
 ## Défis sur le site d'Aix-en-Provence
@@ -14,7 +12,7 @@
 
 ## Défis sur le site de Digne-les-Bains
 
-* [Défi 5 - Canaux de la Bléone](https://crige-paca-lab.github.io/hackathon_crige_2025/resultats/Aix/D%C3%A9fi%205%20-%20canaux%20de%20la%20Bl%C3%A9one)
+* [Défi 5 - Canaux de la Bléone](https://crige-paca-lab.github.io/hackathon_crige_2025/resultats/Digne/D%C3%A9fi%205%20-%20canaux%20de%20la%20Bl%C3%A9one/)
 
 ## Défis sur le site de Nice
 

@@ -6,7 +6,7 @@ Master Ville et Environnement Urbains | Parcours AIR (Pollution Atmosphérique, 
 
 ## Enoncé 
 
-patialiser le confort thermique de la ville de Nice à travers l’indice humidex (combinaison de T et de Td) dans le climat actuel (2030), puis en fonction de la TRACC en 2050 et 2100. 
+Spatialiser le confort thermique de la ville de Nice à travers l’indice humidex (combinaison de T et de Td) dans le climat actuel (2030), puis en fonction de la TRACC en 2050 et 2100. 
 En croisant des mesures de climatologie urbaine réalisées in-situ et des sorties de modèles climatiques avec des facteurs géographiques (altitude, bâti) via des méthodes géostatistiques, les cartes à 1 m de résolution ainsi créées permettront d’anticiper au mieux afin d’adapter la ville au réchauffement en cours.
 
 ## Méthodologie suggérée
@@ -23,7 +23,7 @@ En croisant des mesures de climatologie urbaine réalisées in-situ et des sorti
 
 [Présentation courte des étudiants](https://crige-paca-lab.github.io/hackathon_crige_2025/resultats/Nice/D%C3%A9fi%202%20-%20Climat%20urbain%20%C3%A9volution%20du%20confort%20thermique/Equipe%201%20-%20pr%C3%A9sentation%20et%20docs%20de%20travail/HACKATON_Confort.thermique_G1_3min.pdf)
 
-[Données](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/tree/main/resultats/Nice/D%C3%A9fi%202%20-%20Climat%20urbain%20%C3%A9volution%20du%20confort%20thermique/Equipe%201%20-%20pr%C3%A9sentation%20et%20docs%20de%20travail/groupe_1/cartes)
+[Données](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/tree/main/resultats/Nice/D%C3%A9fi%202%20-%20Climat%20urbain%20%C3%A9volution%20du%20confort%20thermique/Equipe%201%20-%20pr%C3%A9sentation%20et%20docs%20de%20travail/cartes)
 
 [Vidéo de présentation (en français)](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/raw/refs/heads/main/resultats/Nice/D%C3%A9fi%202%20-%20Climat%20urbain%20%C3%A9volution%20du%20confort%20thermique/Equipe%201%20-%20pr%C3%A9sentation%20et%20docs%20de%20travail/Hackathon.francais.mp4)
 
